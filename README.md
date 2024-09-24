@@ -1,4 +1,5 @@
-[![MasterHead](https://github.com/user-attachments/assets/832a2374-5899-4df6-b116-97d79261525e)](https://rishavchanda.io)
+[![MasterHead](https://github.com/user-attachments/assets/53a08b42-2a7f-4b48-9e9c-eef297913d0e)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Chrysostomos</h1>
 <h3 align="center">A passionate full-stack developer from Cyprus</h3>
 
