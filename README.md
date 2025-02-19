@@ -15,9 +15,7 @@
 <h3 align="left">Connect with me on <a href="https://linkedin.com/in/chrysostomos-koumides-465880222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chrysostomos-koumides-465880222" height="30" width="40" /></a> </h3>
 
 
-
-<h3 align="left">Languages and Tools:</h3>
-
+### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=bash,git,github,docker,kubernetes,grafana,cpp,python,java,php,laravel,bootstrap,tailwind,js,ts,nodejs,express,nextjs,react,cypress,mongodb,mysql,firebase,postman,figma,vscode&perline=9)](https://skillicons.dev)
 
 
