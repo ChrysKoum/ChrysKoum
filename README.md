@@ -16,7 +16,7 @@
 
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=bash,git,github,docker,kubernetes,grafana,cpp,python,java,php,laravel,bootstrap,tailwind,js,ts,nodejs,express,nextjs,react,cypress,mongodb,mysql,firebase,postman,figma,vscode&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,git,github,docker,kubernetes,grafana,cpp,python,java,php,laravel,tailwind,js,ts,nodejs,express,nextjs,react,cypress,mongodb,mysql,firebase,figma,vscode&perline=9)](https://skillicons.dev)
 
 
 
