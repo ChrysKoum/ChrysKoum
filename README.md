@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chryskoum&label=Profile%20views&color=0e75b6&style=flat" alt="chryskoum" /> </p>
 
-- 🔭 I’m currently working as a Freelancer and on [Sensor Dynamis](https://sensordynamis.com/)
-- 🌱 I’m actively developing professionally applications in **Next.js/React**
-- 👨‍💻 All of my projects are available at my [Personal Website](https://chryskoum.github.io/ChrysK/)
+- 🔭 I’m currently working on [Sensor Dynamis](https://sensordynamis.com/) and as a Freelancer
+- 🌱 I’m actively developing professional applications in **Next.js/React**
+- 👨‍💻 All of my projects are available at my [Personal Website](https://www.chryskoum.engineer/)
 <!--- ⚡ "I’m eager to learn **Next.js**! -->
 
 <h3 align="left">Connect with me on <a href="https://linkedin.com/in/chrysostomos-koumides-465880222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chrysostomos-koumides-465880222" height="30" width="40" /></a> </h3>
